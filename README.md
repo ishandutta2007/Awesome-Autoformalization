@@ -1,11 +1,23 @@
-# Awesome-Autoformalization
-## Autoformalization in AI: Evolution, Variants, Types, & Applications
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome Autoformalization Banner" width="100%">
+</div>
+
+# Awesome-Autoformalization 🤖📝🧪
+
+<div align="center">
+
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a><a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+
+</div>
+
+## Autoformalization in AI: Evolution, Variants, Types, & Applications 🚀
+
 
 Autoformalization is an advanced reasoning and natural language processing paradigm in artificial intelligence that translates informal, natural language statements (such as conversational mathematics, physics problems, or software feature descriptions) into formal, machine-verifiable mathematical expressions or source code specifications. Unlike standard text summarization or machine translation, autoformalization must bridge the gap between ambiguous, context-dependent human language and mathematically rigorous, deterministic code blocks. This technique allows AI systems to interface directly with interactive theorem provers (ITPs) like Lean, Isabelle, or Coq, enabling automated proof checking and transforming AI from a statistical mimic into a provably correct reasoning agent.
 
 ---
 
-## 1. The Chronological Evolution
+## 1. The Chronological Evolution ⏳
 
 The technical approach to autoformalization has transitioned from hand-crafted syntactic parsers to prompt-engineered few-shot code mappings, moving toward modern reinforcement-learned loop systems backed by automated theorem verifiers.
 
@@ -24,7 +36,7 @@ flowchart LR
 
 ---
 
-## 2. Core Functional & Target Language Variants
+## 2. Core Functional & Target Language Variants ⚙️
 
 Autoformalization frameworks are strictly categorized based on the underlying formal verification ecosystem they translate into.
 
@@ -36,7 +48,7 @@ Autoformalization frameworks are strictly categorized based on the underlying fo
 
 ---
 
-## 3. Training Paradigms & Data Bottleneck Types
+## 3. Training Paradigms & Data Bottleneck Types 🧠
 
 Because high-quality, parallel datasets matching informal human language to exact formal verification code are extremely scarce, AI pipelines deploy distinct data curation types.
 
@@ -48,7 +60,7 @@ Because high-quality, parallel datasets matching informal human language to exac
 
 ---
 
-## 4. Production Engineering Challenges & Mitigations
+## 4. Production Engineering Challenges & Mitigations 🛠️
 
 Deploying autoformalization pipelines across industrial automated reasoning systems introduces intense type-checking alignment boundaries and compiler latency penalties.
 
@@ -59,7 +71,7 @@ Deploying autoformalization pipelines across industrial automated reasoning syst
 
 ---
 
-## 5. Frontier Real-World AI Applications
+## 5. Frontier Real-World AI Applications 🌐
 
 | Application Area | Real-World Application Details | Year First Used | First Paper Link |
 | :--- | :--- | :--- | :--- |
