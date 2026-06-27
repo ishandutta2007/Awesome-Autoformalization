@@ -9,9 +9,12 @@ Autoformalization is an advanced reasoning and natural language processing parad
 
 The technical approach to autoformalization has transitioned from hand-crafted syntactic parsers to prompt-engineered few-shot code mappings, moving toward modern reinforcement-learned loop systems backed by automated theorem verifiers.
 
-[Rule-Based Syntactic Grammars] ----> [Few-Shot Code Prompting (2022)] ----> [Native Self-Correction Loops (2024+)](Rigid Hand-Crafted Lexicons)          (In-Context Transformer Mappings)          (ITP-Compiler Reinforcement Learning)
-
-
+```mermaid
+flowchart LR
+    A["Rule-Based Syntactic Grammars<br/>(Rigid Hand-Crafted Lexicons)"]
+    --> B["Few-Shot Code Prompting (2022)<br/>(In-Context Transformer Mappings)"]
+    --> C["Native Self-Correction Loops (2024+)<br/>(ITP-Compiler Reinforcement Learning)"]
+```
 
 *   **The Rule-Based Syntactic Era (Classic Symbolic AI)**
     *   *Concept:* The structural baseline. Early frameworks relied on hand-crafted grammars, lambda calculus mappings, and rigid semantic lexicons to parse highly specific natural language structures into logical statements.
