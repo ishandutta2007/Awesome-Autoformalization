@@ -79,3 +79,16 @@ Deploying autoformalization pipelines across industrial automated reasoning syst
 | [**Mission-Critical Aerospace & Hardware Verification**](details/mission_critical_aerospace_hardware.md) | **Application:** Hardens the safety boundaries of autonomous flight systems, automotive control chips, and medical hardware. Autoformalization engines read human-written operational safety requirements and translate them into mathematical **TLA+ specifications**, letting compilers simulate millions of edge-case scenarios to guarantee the code can never lock up or enter bricked states. | 2023 | [Cosler et al. (2023)](https://arxiv.org/abs/2303.04018) |
 | [**Enterprise Natural-Language-to-SQL API Engines**](details/enterprise_nl_to_sql.md) | **Application:** Powers intelligent database querying arrays for enterprise software suites. Non-technical corporate managers type abstract data requests (e.g., `"Show me a comparison of Q3 revenue across all departments that beat their targets by 5%"`), and the autoformalization layer converts the intent into a structurally optimized, bulletproof SQL block instantly. | 2018 | [Yu et al. (2018)](https://arxiv.org/abs/1809.08887) |
 
+---
+
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Autoformalization&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Autoformalization&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Autoformalization&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Autoformalization&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
